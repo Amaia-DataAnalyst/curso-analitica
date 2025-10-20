@@ -11,6 +11,7 @@ Conjuntos de datos / Datasets:
 - [clientes_500.csv](https://github.com/user-attachments/files/23003676/clientes_500.csv)
 
 Spreadsheets:
+
 Clientes_150.xlsx:
 - [https://docs.google.com/spreadsheets/d/1BsT2vBoaHZhMWM12E-7yo1kO4JScuLtTxsCq3vZmxw4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1BsT2vBoaHZhMWM12E-7yo1kO4JScuLtTxsCq3vZmxw4/edit?usp=sharing)
 
