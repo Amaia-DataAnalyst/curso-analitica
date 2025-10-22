@@ -12,7 +12,8 @@ Conjuntos de datos / Datasets:
 
 Pasos para la creación de una tabla:
 
-- [Uploading Pasos-creacion-tabla.pdf…]()
+- [Pasos-creacion-tabla.pdf](https://github.com/user-attachments/files/23059966/Pasos-creacion-tabla.pdf)
+
 
 
 Spreadsheets:
