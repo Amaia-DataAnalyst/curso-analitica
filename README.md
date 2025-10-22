@@ -22,6 +22,5 @@ Clientes_500.xlsx
 Módulo 2: SQL para Business Analytics
 
 - [Modulo-2_SQL-para-Business-Analytics.pdf](https://github.com/user-attachments/files/23059578/Modulo-2_SQL-para-Business-Analytics.pdf)
-
-- 
+ 
 
