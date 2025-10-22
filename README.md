@@ -10,6 +10,11 @@ Conjuntos de datos / Datasets:
 - [clientes_500.xlsx](https://github.com/user-attachments/files/23003677/clientes_500.xlsx)
 - [clientes_500.csv](https://github.com/user-attachments/files/23003676/clientes_500.csv)
 
+Pasos para la creación de una tabla:
+
+- [Uploading Pasos-creacion-tabla.pdf…]()
+
+
 Spreadsheets:
 
 Clientes_150.xlsx:
