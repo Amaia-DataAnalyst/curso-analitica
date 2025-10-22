@@ -18,3 +18,10 @@ Clientes_150.xlsx:
 Clientes_500.xlsx
 
 - https://docs.google.com/spreadsheets/d/1qH3FdY4s_dO_H7zU2HOXEXhoQKb0kKoA3DftyKVK6Z8/edit?usp=sharing
+
+Módulo 2: SQL para Business Analytics
+
+- [Modulo-2_SQL-para-Business-Analytics.pdf](https://github.com/user-attachments/files/23059578/Modulo-2_SQL-para-Business-Analytics.pdf)
+
+- 
+
