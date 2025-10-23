@@ -6,7 +6,8 @@ Módulo 1: Fundamentos de analítica de datos
 Conjuntos de datos / Datasets:
 
 - [clientes_150.csv](https://github.com/user-attachments/files/23003673/clientes_150.csv)
-- [clientes_150.xlsx](https://github.com/user-attachments/files/23003675/clientes_150.xlsx)[dataset_clientes.txt](https://github.com/user-attachments/files/23003678/dataset_clientes.txt)
+- [clientes_150.xlsx](https://github.com/user-attachments/files/23003675/clientes_150.xlsx)
+- [dataset_clientes.txt](https://github.com/user-attachments/files/23003678/dataset_clientes.txt)
 - [clientes_500.xlsx](https://github.com/user-attachments/files/23003677/clientes_500.xlsx)
 - [clientes_500.csv](https://github.com/user-attachments/files/23003676/clientes_500.csv)
 
