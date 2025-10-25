@@ -25,7 +25,7 @@ Clientes_500.xlsx
 **Entornos de aprendizaje:**
 
 - *W3schools*. Enlace a la página de inicio del SQL Tutorial: https://www.w3schools.com/sql/default.asp
-- *db<>fiddle.* Enlace al entorno de prácticas con una práctica preparada: https://dbfiddle.uk/UxeB_wfq
+- *db<>fiddle.* Enlace al entorno de prácticas con una práctica de SQL preparada: https://dbfiddle.uk/UxeB_wfq
 
 ## Módulo 1: Fundamentos de analítica de datos
 
