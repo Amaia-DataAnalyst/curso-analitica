@@ -27,6 +27,12 @@ Clientes_500.xlsx
 - *W3schools*. Enlace a la página de inicio del SQL Tutorial: https://www.w3schools.com/sql/default.asp
 - *db<>fiddle.* Enlace al entorno de prácticas con una práctica de SQL preparada: https://dbfiddle.uk/UxeB_wfq
 
+**Recursos adicionales:**
+
+- [CAS_PID_00278308.pdf](https://github.com/user-attachments/files/23171947/CAS_PID_00278308.pdf)
+
+
+
 ## Módulo 1: Fundamentos de analítica de datos
 
 - [Modulo-1_Fundamentos-Analitica-Datos.pdf](https://github.com/user-attachments/files/22992199/Modulo-1_Fundamentos-Analitica-Datos.pdf)
@@ -40,5 +46,12 @@ Pasos para la creación de una tabla:
 ## Módulo 2: SQL para Business Analytics
 
 - [Modulo-2_SQL-para-Business-Analytics.pdf](https://github.com/user-attachments/files/23059578/Modulo-2_SQL-para-Business-Analytics.pdf)
+
+
+## Módulo 3 y 4: Modelado de datos con Power Query y visualización de datos con PowerBI
+
+- [Modulos-3+4_PowerQuery+PowerBI.pdf](https://github.com/user-attachments/files/23171922/Modulos-3%2B4_PowerQuery%2BPowerBI.pdf)
+
+
  
 
