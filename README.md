@@ -29,6 +29,8 @@ Clientes_500.xlsx
 
 **Recursos adicionales:**
 
+Visualización de datos extraídos de los medios sociales:
+
 - [CAS_PID_00278308.pdf](https://github.com/user-attachments/files/23171947/CAS_PID_00278308.pdf)
 
 
