@@ -52,7 +52,8 @@ Pasos para la creación de una tabla:
 
 ## Módulo 3 y 4: Modelado de datos con Power Query y visualización de datos con PowerBI
 
-- [Modulos-3+4_PowerQuery+PowerBI.pdf](https://github.com/user-attachments/files/23171922/Modulos-3%2B4_PowerQuery%2BPowerBI.pdf)
+- [Modulos-3+4_PowerQuery+PowerBI.pdf](https://github.com/user-attachments/files/23304497/Modulos-3%2B4_PowerQuery%2BPowerBI.pdf)
+
 
 
  
