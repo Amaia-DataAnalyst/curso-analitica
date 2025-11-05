@@ -1,4 +1,4 @@
-[CUSTOMERS.csv](https://github.com/user-attachments/files/23354657/CUSTOMERS.csv)# Curso de analítica de datos e inteligencia artificial (Aiaraldea)
+# Curso de analítica de datos e inteligencia artificial (Aiaraldea)
 
 **Conjuntos de datos / Datasets:**
 
