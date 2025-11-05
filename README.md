@@ -63,6 +63,11 @@ Pasos para la creación de una tabla:
 
 - [Modulos-3+4_PowerQuery+PowerBI.pdf](https://github.com/user-attachments/files/23304497/Modulos-3%2B4_PowerQuery%2BPowerBI.pdf)
 
+Pasos para las conexiones entre tablas:
+
+- [Guía_conexiones-tablas.pdf](https://github.com/user-attachments/files/23359604/Guia_conexiones-tablas.pdf)
+
+
 
 
  
