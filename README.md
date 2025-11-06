@@ -30,6 +30,8 @@ Clientes_500.xlsx
 **Programas:**
 
 - *PowerBI*. Enlace de descarga: https://www.microsoft.com/es-es/download/details.aspx?id=58494
+- *Orange Data Mining*. Enlace de descarga: https://orangedatamining.com/download/
+
 
 **Entornos de aprendizaje:**
 
@@ -66,6 +68,11 @@ Pasos para la creación de una tabla:
 Pasos para las conexiones entre tablas:
 
 - [Guía_conexiones-tablas.pdf](https://github.com/user-attachments/files/23359604/Guia_conexiones-tablas.pdf)
+
+## Módulo 5: Data Mining con Orange
+
+- [Modulo-5_Mineria-Datos_Orange.pdf](https://github.com/user-attachments/files/23392259/Modulo-5_Mineria-Datos_Orange.pdf)
+
 
 
 
