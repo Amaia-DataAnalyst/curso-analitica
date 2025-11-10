@@ -70,6 +70,10 @@ Pasos para las conexiones entre tablas:
 
 - [Guía_conexiones-tablas.pdf](https://github.com/user-attachments/files/23359604/Guia_conexiones-tablas.pdf)
 
+Pasos para conseguir importar una columna y el dato agregado para la realización de los ejercicios del final:
+- https://github.com/user-attachments/assets/289e27ad-3319-4430-9153-b45ff8f135ad
+
+
 ## Módulo 5: Data Mining con Orange
 
 - [Modulo-5_Mineria-Datos_Orange.pdf](https://github.com/user-attachments/files/23392259/Modulo-5_Mineria-Datos_Orange.pdf)
