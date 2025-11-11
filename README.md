@@ -31,7 +31,7 @@ Clientes_500.xlsx
 
 - *PowerBI*. Enlace de descarga: https://www.microsoft.com/es-es/download/details.aspx?id=58494
 - *Orange Data Mining*. Enlace de descarga: https://orangedatamining.com/download/
-- *Visual C++ Redistributable v14*. Enlace de descarga: https://learn.microsoft.com/es-es/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version
+- (Si falla la instalación de Orange Data Mining) *Visual C++ Redistributable v14*. Enlace de descarga: https://learn.microsoft.com/es-es/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version
 
 
 **Entornos de aprendizaje:**
