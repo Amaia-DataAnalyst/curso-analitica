@@ -79,6 +79,11 @@ Pasos para conseguir importar una columna y el dato agregado para la realizació
 
 - [Modulo-5_Mineria-Datos_Orange.pdf](https://github.com/user-attachments/files/23392259/Modulo-5_Mineria-Datos_Orange.pdf)
 
+## Módulos 6 y 7: Aprendizaje automático - Aprendizaje supervisado y no supervisado
+
+- [Modulo-6+7_MachineLearning_Aprendizaje-supervisado_no-supervisado.pdf](https://github.com/user-attachments/files/23506879/Modulo-6%2B7_MachineLearning_Aprendizaje-supervisado_no-supervisado.pdf)
+
+
 
 
 
