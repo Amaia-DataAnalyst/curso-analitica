@@ -83,6 +83,16 @@ Pasos para conseguir importar una columna y el dato agregado para la realizació
 
 - [Modulo-6+7_MachineLearning_Aprendizaje-supervisado_no-supervisado.pdf](https://github.com/user-attachments/files/23506879/Modulo-6%2B7_MachineLearning_Aprendizaje-supervisado_no-supervisado.pdf)
 
+Ejercicios sobre tipos de correlación:
+
+- [Ejercicios_correlaciones.pdf](https://github.com/user-attachments/files/23603615/Ejercicios_correlaciones.pdf)
+
+## Módulo 8: Aprendizaje profundo
+
+- [Modulo-8_DeepLearning.pdf](https://github.com/user-attachments/files/23603995/Modulo-8_DeepLearning.pdf)
+
+
+
 
 
 
