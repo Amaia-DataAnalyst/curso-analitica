@@ -89,7 +89,8 @@ Ejercicios sobre tipos de correlación:
 
 ## Módulo 8: Aprendizaje profundo
 
-- [Modulo-8_DeepLearning.pdf](https://github.com/user-attachments/files/23603995/Modulo-8_DeepLearning.pdf)
+- [Modulo-8_DeepLearning.pdf](https://github.com/user-attachments/files/23626087/Modulo-8_DeepLearning.pdf)
+
 
 ## Módulo 9: IA generativa para textos e imágenes
 
