@@ -91,6 +91,11 @@ Ejercicios sobre tipos de correlación:
 
 - [Modulo-8_DeepLearning.pdf](https://github.com/user-attachments/files/23603995/Modulo-8_DeepLearning.pdf)
 
+## Módulo 9: IA generativa para textos e imágenes
+
+- [Modulo-9_IAGenerativa_GENAI.pdf](https://github.com/user-attachments/files/23625904/Modulo-9_IAGenerativa_GENAI.pdf)
+
+
 
 
 
