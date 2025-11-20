@@ -94,7 +94,8 @@ Ejercicios sobre tipos de correlación:
 
 ## Módulo 9: IA generativa para textos e imágenes
 
-- [Modulo-9_IAGenerativa_GENAI.pdf](https://github.com/user-attachments/files/23625904/Modulo-9_IAGenerativa_GENAI.pdf)
+- [Modulo-9_IAGenerativa_GENAI_.pptx](https://github.com/user-attachments/files/23652546/Modulo-9_IAGenerativa_GENAI_.pptx)
+
 
 
 
